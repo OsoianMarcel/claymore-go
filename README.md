@@ -188,8 +188,11 @@ Contributions to the package are always welcome!
 * You can grab the source code at the package's [Git repository].
 
 ## Donation
-BTC: 13s6V1jzs84qijdcDTSXsEto7KZEE8cwZz
+
+```
 ETH: 0x58aaa089338901fcf5fb59342c97c17fa3dd1229
+BTC: 13s6V1jzs84qijdcDTSXsEto7KZEE8cwZz
+```
 
 ## License
 
