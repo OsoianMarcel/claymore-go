@@ -198,6 +198,6 @@ BTC: 13s6V1jzs84qijdcDTSXsEto7KZEE8cwZz
 
 All contents of this package are licensed under the [MIT license].
 
-[issue tracker]: https://github.com/OsoianMarcel/bnm-rates/issues
-[Git repository]: https://github.com/OsoianMarcel/bnm-rates
+[issue tracker]: https://github.com/OsoianMarcel/claymore-go/issues
+[Git repository]: https://github.com/OsoianMarcel/claymore-go
 [MIT license]: LICENSE
