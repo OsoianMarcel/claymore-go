@@ -1,7 +1,7 @@
 # claymore-go
 Go library used to get claymore stats in human readable model
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/OsoianMarcel/claymore-go)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/OsoianMarcel/claymore-go/blob/master/LICENSE)
 
 ## Example of simple web server using this library
 
